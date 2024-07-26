@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 25px;
+    min-width: 400px;
+}
+input {
+    width: 50%;
+    margin: 2px;
+    display: block;
+}
+button {
+    background-color: green;
+    border: none;
+    margin: 2px;
+    border-radius: 10px;
+    
+
+}
+ul {
+    list-style: none;
+}
+
